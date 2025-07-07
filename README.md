@@ -1,3 +1,3 @@
-# HarvardDataScience-MovieLensCapston
+# HarvardDataScience-MovieLensCapstone
 
 Work in progress
